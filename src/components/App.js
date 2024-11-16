@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "../styles/App.scss";
 import StatusLine from "./StatusLine";
-
+import SearchFilter from "./SearchFilter";
 
 function App() {
   const [tasks, setTasks] = useState([]);
@@ -92,6 +92,7 @@ function App() {
   return (
     <div className="App">
       <h1>Task Management</h1>
+      <SearchFilter tasks={tasks} />
 
       <main>
         <section>
