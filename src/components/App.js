@@ -80,10 +80,12 @@ function App() {
 
     let tasks = JSON.parse(loadedTasks);
     const priorityOrder = { "high": 1, "medium": 2, "low": 3,"":4 };
-    tasks.sort((a, b) => priorityOrder[a.urgency] - priorityOrder[b.urgency]);
-    console.log(tasks);
-
+    
     if (tasks) {
+      if(tasks.length > 0){
+        tasks.sort((a, b) => priorityOrder[a.urgency] - priorityOrder[b.urgency]);
+        console.log(tasks);
+      }
       setTasks(tasks);
 
     }
