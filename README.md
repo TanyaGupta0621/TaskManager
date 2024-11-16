@@ -1,21 +1,32 @@
 <div align="centre"  max-width="fit-content" margin-left= "auto"  margin-right= "auto">
   
-  # TaskManager  ![TaskManager]()
+  # TaskManager  ![TaskManager](./public/icons8-job-64.png)
 </div>
+
+## [Question.md](./questions.md) 
 
 ## Table of Contents
 <details>
   <summary>Expand</summary>
   <ol>
 
-- [Features](#Features)
-- [Images](#Images)
-- [TechStack](#TechStack)
-- [Installation](#installation)
-- [Maintainers](#Maintainers)
-- [Technologies](#technologies)
-- [License](#license)
-- [Contributing](#contributing)
+- [TaskManager  ](#taskmanager--)
+  - [Question.md](#questionmd)
+  - [Table of Contents](#table-of-contents)
+  - [Images](#images)
+  - [Features](#features)
+      - [Documentation](#documentation)
+      - [Request Feature](#request-feature)
+  - [TechStack](#techstack)
+  - [Requirements](#requirements)
+  - [Installation](#installation)
+    - [Setup NodeJS](#setup-nodejs)
+    - [Setup Project](#setup-project)
+  - [Maintainers 👨‍💻](#maintainers-)
+  - [Licence 🍁](#licence-)
+    - [**MIT**  © Tanya Gupta](#mit---tanya-gupta)
+  - [Contributing 💙](#contributing-)
+  - [💖 Like this project ?](#-like-this-project-)
 
 </ol>
 </details>
@@ -23,7 +34,10 @@
 ## Images
 <div align="centre">
 
-<!-- <img src="./client/public/images/Demo/photo_5.jpeg"> -->
+<img src="./public/ss1.png" width ="400px" title="Profile page" alt="Landing page">
+<!-- <img src="./public/ss2.png" width ="450px" title="Profile page" alt=" page"> -->
+<img src="./public/ss3.png" width ="450px" title="Profile page" alt="Task Mgmt.">
+<img src="./public/ss4.png" width ="500px" title="Profile page" alt="Search and filter query">
 </div>
 
 ## Features
