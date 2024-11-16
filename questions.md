@@ -92,8 +92,8 @@ Integrate a reminder system using cron jobs to send email or push notifications 
 <br>
 
 Thank you for reviewing the project!
-I’m Tanya Gupta, and I’m glad to have had the opportunity to work on this. If you have any questions or need further information, feel free to contact me at tanyaguptaanpara@gmail.com. I look forward to future collaborations and hope this project meets your expectations.
+I’m Tanya Gupta, and I’m glad to have had the opportunity to work on this. If you have any questions or need further information, feel free to contact me at tanyagupta4108@gmail.com. I look forward to future collaborations and hope this project meets your expectations.
 
 Best regards,
 Tanya Gupta
-tanyaguptaanpara@gmail.com
+tanyagupta4108@gmail.com
