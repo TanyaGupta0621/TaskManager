@@ -3,7 +3,8 @@
   # TaskManager  ![TaskManager](./public/icons8-job-64.png)
 </div>
 
-## [Question.md](./questions.md) 
+## [Questions.md](./questions.md) 
+File contains QnA to Technical Questions
 
 ## Table of Contents
 <details>
@@ -90,6 +91,7 @@ For codebase use the package manager [npm](https://www.npmjs.com/) to install [T
 ### Setup Project 
 ```
 git clone https://github.com/TanyaGupta0621/TaskManager.git
+cd TaskManager
 npm install
 npm run start
 ```
